@@ -1,4 +1,11 @@
+def odd_or_even(x)
+
+end
 #1 Create a method 'odd_or_even' that takes a number as an argument and returns whether the number is odd or even.
+
+def word_counter(x)
+	
+end
 
 #2 Create a method 'word_counter' that counts the words in a sentence.
 
